@@ -1,7 +1,6 @@
 /* @pjs preload="blue_ghost.png",
 "cave32.png",
 "hero.png",
-"leaderboard.csv",
 "overworld32.png",
 "sorcerer.png",
 "white_ghost.png"; 
