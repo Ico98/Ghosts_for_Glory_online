@@ -1,18 +1,18 @@
-/* @pjs preload="file1.png","data/blue_ghost.png",
-"data/cave32.jpg",
-"data/hero.png",
-"data/leaderboard.csv",
-"data/level1_background.csv",
-"data/level1_obstacles.csv",
-"data/level2_background.csv",
-"data/level2_obstacles.csv",
-"data/level3_background.csv",
-"data/level3_obstacles.csv",
-"data/level4_background.csv",
-"data/level4_obstacles.csv",
-"data/overworld32.png",
-"data/sorcerer.png",
-"data/white_ghost.png"; 
+/* @pjs preload="blue_ghost.png",
+"cave32.png",
+"hero.png",
+"leaderboard.csv",
+"level1_background.csv",
+"level1_obstacles.csv",
+"level2_background.csv",
+"level2_obstacles.csv",
+"level3_background.csv",
+"level3_obstacles.csv",
+"level4_background.csv",
+"level4_obstacles.csv",
+"overworld32.png",
+"sorcerer.png",
+"white_ghost.png"; 
 */
 
 gamemanager gm;
