@@ -1,20 +1,3 @@
-/* @pjs preload="file1.png","data/blue_ghost.png",
-"data/cave32.jpg",
-"data/hero.png",
-"data/leaderboard.csv",
-"data/level1_background.csv",
-"data/level1_obstacles.csv",
-"data/level2_background.csv",
-"data/level2_obstacles.csv",
-"data/level3_background.csv",
-"data/level3_obstacles.csv",
-"data/level4_background.csv",
-"data/level4_obstacles.csv",
-"data/overworld32.png",
-"data/sorcerer.png",
-"data/white_ghost.png"; 
-*/
-
 gamemanager gm;
 int millis;
 
